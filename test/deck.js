@@ -6,5 +6,6 @@ exports['create deck with 52 cards'] = function (test) {
     
     test.ok(deck);
     test.equal(typeof deck, 'object');
+    test.equal(deck.size(), 52);
 };
 
