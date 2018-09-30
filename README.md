@@ -16,7 +16,9 @@ TBD
 
 ## References
 
-TBD
+- [Standard 52-card deck](https://en.wikipedia.org/wiki/Standard_52-card_deck)
+- [The Amazing Truth About A Deck Of Cards](https://knowledgenuts.com/2013/09/03/the-amazing-truth-about-a-deck-of-cards/)
+- [Texas Hold’em Poker Tutorial](https://www.pokerstarsschool.com/article/Texas-Holdem-Poker-Tutorial)
 
 ## Samples
 
