@@ -20,6 +20,9 @@ TBD
 - [The Amazing Truth About A Deck Of Cards](https://knowledgenuts.com/2013/09/03/the-amazing-truth-about-a-deck-of-cards/)
 - [Texas Hold’em Poker Tutorial](https://www.pokerstarsschool.com/article/Texas-Holdem-Poker-Tutorial)
 - [Suit (cards)](https://en.wikipedia.org/wiki/Suit_(cards))
+- [Texas hold 'em](https://en.wikipedia.org/wiki/Texas_hold_%27em)
+- [Split (poker)](https://en.wikipedia.org/wiki/Split_(poker))
+- [List of poker hands](https://en.wikipedia.org/wiki/List_of_poker_hands)
 
 ## Samples
 
